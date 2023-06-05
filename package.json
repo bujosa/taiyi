@@ -1,0 +1,22 @@
+{
+  "name": "taiyi",
+  "version": "1.0.0",
+  "description": "hyperledger-firefly-api-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bujosa/taiyi.git"
+  },
+  "author": "Bujosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bujosa/taiyi/issues"
+  },
+  "homepage": "https://github.com/bujosa/taiyi#readme",
+  "dependencies": {
+    "firefly": "^0.0.6"
+  }
+}
